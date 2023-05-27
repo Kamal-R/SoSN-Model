@@ -19,3 +19,5 @@ The Models folder contains the following Stan files:
 - Wave_8.stan: the N = 8 model. 
 - Wave_8_Texas.stan: the N = 8 model for Texas. 
 - Wave_8_Peru.stan: the N = 8 model for Peru. 
+
+The Figures folder is empty (besides a brief README file), and the scripts above save the figures they produce to this folder.
