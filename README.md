@@ -1,4 +1,4 @@
-This repository contains the files used in "Decomposing Daily COVID-19 Mortality into Skew Normal Curves."
+This repository contains the files used in "Identifying waves of COVID-19 mortality using skew normal curves."
 
 The R scripts assume that the folder that contains the files in this repository are the working directory. 
 
